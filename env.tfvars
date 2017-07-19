@@ -1,0 +1,2 @@
+account_id = "Your_AWS_account_ID"
+elastic_ip_allocation_id = "Your_Allocation_ID_of_elasticIP_for_NAT_Gateway"
